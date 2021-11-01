@@ -1,0 +1,6 @@
+modelsim/
+*.do
+*.wlf
+rtl/e902/
+cmsdk*
+./rtl/flist
